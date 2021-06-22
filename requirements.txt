@@ -243,7 +243,7 @@ seaborn==0.10.1
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
-sip==4.19.13
+# sip==4.19.13
 six==1.15.0
 sklearn==0.0
 smart-open==4.1.2
