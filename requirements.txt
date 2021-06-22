@@ -203,7 +203,7 @@ pyLDAvis==3.3.1
 # PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
 pynndescent==0.5.2
 pyod==0.8.8
-pyodbc===4.0.0-unsupported
+# pyodbc===4.0.0-unsupported
 # pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 pyparsing==2.4.7
 pyreadline==2.1
