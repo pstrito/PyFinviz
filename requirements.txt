@@ -159,13 +159,13 @@ notebook==6.0.3
 # numba==0.53.1
 # numexpr==2.7.1
 # numpy==1.19.5
-numpy>=1.16.1
+numpy==1.16.5
 # numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
 olefile==0.46
 # openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
 packaging==20.4
-pandas==1.2.4
-pandas-profiling==2.11.0
+# pandas==1.2.4
+# pandas-profiling==2.11.0
 pandocfilters==1.4.2
 paramiko==2.7.1
 parso==0.7.0
@@ -173,10 +173,10 @@ partd==1.1.0
 path==13.1.0
 pathlib2==2.3.5
 pathtools==0.1.2
-patsy==0.5.1
+# patsy==0.5.1
 pep8==1.7.1
 pexpect==4.8.0
-phik==0.11.2
+# phik==0.11.2
 pickleshare==0.7.5
 # Pillow @ file:///C:/ci/pillow_1594298230227/work
 pkginfo==1.5.0.1
@@ -192,7 +192,7 @@ protobuf==3.15.8
 psutil==5.7.0
 # py @ file:///tmp/build/80754af9/py_1593446248552/work
 pycares==3.1.1
-pycaret==2.3.1
+# pycaret==2.3.1
 pycodestyle==2.6.0
 pycosat==0.6.3
 # pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
@@ -200,7 +200,7 @@ pycurl==7.43.0.5
 # pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
 pyflakes==2.2.0
 Pygments==2.6.1
-pyLDAvis==3.3.1
+# pyLDAvis==3.3.1
 # pylint @ file:///C:/ci/pylint_1592482039483/work
 # PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
 pynndescent==0.5.2
