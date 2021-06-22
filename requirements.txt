@@ -6,7 +6,7 @@ aiohttp==3.7.3
 aiohttp-socks==0.5.5
 alabaster==0.7.12
 alembic==1.4.1
-anaconda-client==1.7.2
+# anaconda-client==1.7.2
 anaconda-navigator==1.9.12
 anaconda-project==0.8.3
 argh==0.26.2
