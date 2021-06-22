@@ -218,7 +218,7 @@ python-socks==1.1.2
 pytz==2020.1
 PyWavelets==1.1.1
 pywebio==1.2.3
-pywin32==227
+# pywin32==227
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.3.1
