@@ -1,6 +1,6 @@
 altgraph==0.17
-anaconda-client==1.7.2
-anaconda-navigator==1.10.0
+#anaconda-client==1.7.2
+#anaconda-navigator==1.10.0
 beautifulsoup4==4.9.3
 brotlipy==0.7.0
 bs4==0.0.1
