@@ -7,8 +7,8 @@ bs4==0.0.1
 build==0.5.1
 certifi==2020.12.5
 click==7.1.2
-clyent==1.2.2
-conda==4.10.1
+#clyent==1.2.2
+#conda==4.10.1
 cycler==0.10.0
 docutils==0.17.1
 entrypoints==0.3
