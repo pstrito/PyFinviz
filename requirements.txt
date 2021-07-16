@@ -34,9 +34,9 @@ pkginfo==1.7.0
 pycosat==0.6.3
 #pyinstaller==4.3
 #pyinstaller-hooks-contrib==2021.1
-pywin32==227
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
+#pywin32==227
+#pywin32-ctypes==0.2.0
+#pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==20.0.0
 QtPy==1.9.0
