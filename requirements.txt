@@ -45,7 +45,7 @@ regex==2021.4.4
 requests-toolbelt==0.9.1
 rfc3986==1.5.0
 ruamel-yaml==0.15.87
-sentimentAnalysisPkg==0.0.1
+sentimentAnalysisPkg==0.0.2
 #sip==4.19.13
 soupsieve==2.2.1
 terminado==0.9.4
