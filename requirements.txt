@@ -12,7 +12,7 @@ click==7.1.2
 cycler==0.10.0
 docutils==0.17.1
 entrypoints==0.3
-finVizFetchPkg==0.0.1
+finVizFetchPkg==0.0.2
 future==0.18.2
 jedi==0.17.0
 joblib==1.0.1
@@ -45,7 +45,7 @@ regex==2021.4.4
 requests-toolbelt==0.9.1
 rfc3986==1.5.0
 ruamel-yaml==0.15.87
-sentimentAnalysisPkg==0.0.2
+sentimentAnalysisPkg==0.0.4
 #sip==4.19.13
 soupsieve==2.2.1
 terminado==0.9.4
