@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - appmode
+  - numpy
+  - pandas
+  - beautifulsoup4
+  - matplotlib
+  - nltk
+  - wordcloud

@@ -4,3 +4,4 @@ beautifulsoup4==4.9.3
 matplotlib==3.4.2
 nltk==3.6.2
 wordcloud==1.8.1
+appmode==0.8.0
