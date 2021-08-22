@@ -24,7 +24,6 @@ dependencies:
   - kiwisolver
   - MarkupSafe
   - matplotlib
-  - #menuinst
   - mistune
   - nltk
   - numpy
