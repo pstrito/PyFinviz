@@ -1,5 +1,5 @@
 channels:
-  - pip
+  - conda-forge
 dependencies:
   - appmode
   - numpy
