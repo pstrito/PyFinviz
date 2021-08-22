@@ -14,7 +14,7 @@ dependencies:
   - dask
   - beautifulsoup4
   - nltk
-  - Wordcloud
+  - wordcloud
   - pip:
     - finVizFetchPkg
     - sentimentAnalysisPkg
