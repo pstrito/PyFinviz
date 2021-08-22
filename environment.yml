@@ -13,5 +13,6 @@ dependencies:
   - bokeh
   - dask
   - beautifulsoup4
-  - finVizFetchPkg
-  - sentimentAnalysisPkg
+  - pip:
+    - finVizFetchPkg
+    - sentimentAnalysisPkg
