@@ -12,6 +12,8 @@ dependencies:
   - build
   - certifi
   - click
+  - #clyent==1.2.2
+  - #conda==4.10.1
   - cycler
   - docutils
   - entrypoints
