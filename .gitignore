@@ -131,5 +131,6 @@ dmypy.json
 # Jupyter Notebook log files
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
+# execution artifacts
+stopwords.csv
 
